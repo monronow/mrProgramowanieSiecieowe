@@ -1,0 +1,5 @@
+D:\RonMon\CRCmr\CRCmr\bin\Debug\CRCmr.exe
+D:\RonMon\CRCmr\CRCmr\bin\Debug\CRCmr.pdb
+D:\RonMon\CRCmr\CRCmr\obj\Debug\CRCmr.csprojResolveAssemblyReference.cache
+D:\RonMon\CRCmr\CRCmr\obj\Debug\CRCmr.exe
+D:\RonMon\CRCmr\CRCmr\obj\Debug\CRCmr.pdb
