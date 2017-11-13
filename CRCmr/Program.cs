@@ -17,7 +17,7 @@ namespace CRCmr
                 for (int j = 0; j < 8 ; j++)
                 {
                     a = (1 << j);
-                    b = slowo[i];
+                    b = slowo[i]; 
                     c = (c & a) >> j;
 
                     suma ^= b;
