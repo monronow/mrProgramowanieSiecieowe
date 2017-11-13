@@ -9,7 +9,7 @@ namespace CRCmr
             
             string slowo = "slowo";
             int a, b, c = 0;
-            int suma; 
+            int suma;
             suma=0;
 
             for (int i = 0; i < slowo.Length; i++)
